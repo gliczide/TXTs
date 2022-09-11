@@ -1,0 +1,43 @@
+[Audio should be Mono]
+
+
+[AVI:]
+-------------------------------------------------------------
+[Audio Codec should be: GSM 6.10, ACELP.net or PCM U8]
+[Video Codec should be: Microsoft Video or Cinepak]
+-------------------------------------------------------------
+[MOV:]
+[Audio Codec should be: ULaw 2.1 or IMA 4:1]
+[Video Codec should be: JPEG 2000, Sorenson Video 3 and MPEG-4 video]
+
+
+
+16:9: 
+[360p] 640x360, 24fps[16fps]    Quality 48.0%[MSV: 75][TARGET: 640/720]    32,000hz, 64kbps 8-bit 
+[240p] 426x240, 28fps           Quality 32.0%[MSV: 50][TARGET: 480]        22,050hz 48kbps, 8-bit
+[144p] 256x144, 20fps           Quality 16.0%[MSV: 15][TARGET: 360]        11,025hz 32kbps, 8-bit
+[144p] 160x90, 12fps            Quality 8.0%[TARGET: 256]                  8,000hz 32kbps, 4-bit
+[LOWEST] 80x60, 6fps            Quality 0%[TARGET: 1]                      6,000hz 24kbps, 4-bit
+
+
+4:3 + 3:2:
+[360p] 480x360, 24fps[16fps]    Quality 48.0%[MSV: 64][TARGET: 640/720]    32,000hz 64kbps, 8-bit
+[240p] 320x240, 20fps[18fps]    Quality 32.0%[MSV: 43][TARGET: 480]        22,050hz 48kbps, 8-bit 
+[240p] 270x180, 20fps           Quality 16.0%[MSV: 15][TARGET: 360]        11,025hz 32kbps, 8-bit
+[144p] 160x120, 6fps[12fps]     Quality 8.0%[TARGET: 256]                  8,000hz 32kbps, 4-bit 
+[LOWEST] 64x60, 6fps            Quality 0%[TARGET: 1]                      6,000hz 24kbps, 4-bit 
+
+
+
+[INTERNET]
+
+thumbnails:
+[gif] 120x90, 32 colors, Dither 25%
+[jpg] 120x90, Quality 25%
+[jpg] 240x180, Quality 45%
+
+pfp:
+[gif] 32x32, 32 Colors, Dither 25% 
+[gif] 48x48, 24 Colors, Dither 0%
+[jpg] 32x32, Quality 37%
+[jpg] 48x48, Quality 24% 

@@ -1,0 +1,2 @@
+[online, original installation] https://3dpchip.com/
+{for unknown devices, just search hardware id} 
