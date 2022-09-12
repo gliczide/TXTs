@@ -21,3 +21,5 @@ SpaceMy: https://spacemy.acxyz.ca
 Hummus: https://hummus.sys42.net
 OpenVK: https://openvk.su
 TheRetroBook: https://theretrobook.net
+Escargot: https://escargot.chat
+KICQ: http://narodweb.ru/pages/kicq/?page=kicq
