@@ -22,4 +22,9 @@ Hummus: https://hummus.sys42.net
 OpenVK: https://openvk.su
 TheRetroBook: https://theretrobook.net
 Escargot: https://escargot.chat
-KICQ: http://narodweb.ru/pages/kicq/?page=kicq
+KICQ: http://narodweb.ru/pages/kicq/?page=kicq [Russian]
+
+Website Design:
+Neocities: https://neocities.org
+Geocities: https://geocities.ws
+Gramsk:  http://gramsk.ru [Russian]
