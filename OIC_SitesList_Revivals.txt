@@ -11,7 +11,7 @@ Tracle: https://tracle.tv
 YoreTude: https://yoretude.com
 FulpTube: https://utue.net
 MeTube: https://metubee.xyz [Russian]
-ShareYourWorld: http://shareyourworld.xyz
+ShareYourWorld: http://www.shareyourworld.xyz
 
 Twitter/Myspace/Text Posting:
 Littr: https://littr.rocks
