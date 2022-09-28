@@ -9,10 +9,11 @@ VidBit: https://vidbit.co
 CleanTalk: http://cleantalk.great-site.net
 Tracle: https://tracle.tv
 YoreTude: https://yoretude.com
-FulpTube: https://utue.net
+FulpTube: https://utue.net [Down]
 MeTube: https://metubee.xyz [Russian]
 ShareYourWorld: http://www.shareyourworld.xyz
 Scratch: http://p-plasma.at.playit.gg:59110
+YasFam: https://yasfam.com/ [Down]
 
 Twitter/Myspace/Text Posting:
 Littr: https://littr.rocks
@@ -25,6 +26,7 @@ OpenVK: https://openvk.su
 TheRetroBook: https://theretrobook.net
 Escargot: https://escargot.chat
 KICQ: http://narodweb.ru/pages/kicq/?page=kicq [Russian]
+Omnipotent: https://omnipotent.ga/
 
 Website Design:
 Neocities: https://neocities.org
